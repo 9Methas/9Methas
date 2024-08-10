@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
+<a href="https://www.github.com/9Methas" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  </div>
+<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
