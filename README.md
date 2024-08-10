@@ -12,7 +12,10 @@ src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-b
 
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 9Methas
 ===============================================================================================================================
-<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 Bachelor's degree student | Suranaree University of Technology - ( SUT ) | C++,HTML,CSS,PHP
 
 * ✉️  You can contact me at [methasphoynxk90@gmail.cpm](mailto:methasphoynxk90@gmail.cpm)
