@@ -1,7 +1,7 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/123033013_136695471540605_965980219978790917_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHulyQHX_MUJt78ylENEnsn8G3yN5Kq9HHwbfI3kqr0cSi4tc9_j0b7pY6ScapUbTsWJABm-waVAzODY1tXRcmC&_nc_ohc=gKxG3faaooQQ7kNvgFUDMX4&_nc_ht=scontent.fnak3-1.fna&oh=00_AYCRduoxeP0JbAso6XJq7kcusOZ8v-Cxt3zvtjGNMysS-A&oe=66DEC41E"width="250"/>
 </div>
+
 <div id="header" align="center">
 <a href="https://www.github.com/9Methas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
