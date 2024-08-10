@@ -16,8 +16,6 @@ Bachelor's degree student | Suranaree University of Technology - ( SUT ) | C++,H
 
 * ✉️  You can contact me at [methasphoynxk90@gmail.cpm](mailto:methasphoynxk90@gmail.cpm)
 
-<a href="https://www.github.com/9Methas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
