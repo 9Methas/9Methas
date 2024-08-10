@@ -1,9 +1,9 @@
-สวัสดีฉันชื่อ9Methas ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 9Methas
 ===============================================================================================================================
 
-นักศึกษาปริญญาตรี | มหาวิทยาลัยเทคโนโลยีสุรนารี - ( SUT ) | C++,HTML,CSS,PHP
+Bachelor's degree student | Suranaree University of Technology - ( SUT ) | C++,HTML,CSS,PHP
 
-* ✉️ สามารถติดต่อได้ที่[methasphoynxk90@gmail.cpm](mailto:methasphoynxk90@gmail.cpm)[](mailto:methasphoynxk90@gmail.cpm)
+* ✉️  You can contact me at [methasphoynxk90@gmail.cpm](mailto:methasphoynxk90@gmail.cpm)
 
 <a href="https://www.github.com/9Methas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -24,4 +24,4 @@ src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-b
 
 <a href="http://www.github.com/9Methas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=9Methas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/9Methas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=9Methas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/9Methas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Methas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
