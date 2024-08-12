@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/9Methas?logo=github&style=for-the-b
 </div>
 
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 9Methas
-===============================================================================================================================
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"/>
 </div>
@@ -20,11 +20,14 @@ Bachelor's degree student | Suranaree University of Technology - ( SUT ) | C++,H
 
 * ✉️  You can contact me at [methasphoynxk90@gmail.com](mailto:methasphoynxk90@gmail.com)
 
-### Skills
+**Programming Languages:**
+<p align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65"/></a><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65"/><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /></p>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+**Databases:**
+<p align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" </p>
+
+**Other Skills:**
+<p align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /><img src="https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif" width="48" height="48" alt="SQL" /><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" /></p>
 
 ### Socials
 
