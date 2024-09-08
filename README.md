@@ -10,7 +10,7 @@
   🌐 **C++, HTML, CSS, PHP**  
   📧 You can contact me at: [methashopvnxx90@gmail.com](mailto:methashopvnxx90@gmail.com)
 
-  <img align="right" alt="GIF" src="" />
+  <img align="right" alt="GIF" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" />
 
   ---
 
