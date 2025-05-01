@@ -8,7 +8,7 @@
   🎓 **Bachelor's degree student**  
   Suranaree University of Technology - (SUT)  
   🌐 **C++, HTML, CSS, PHP**  
-  📧 You can contact me at: [methashopvnxx90@gmail.com](mailto:methashopvnxx90@gmail.com)
+  📧 You can contact me at: [methasphoynxk90@gmail.com](mailto:methasphoynxk90@gmail.com)
 
   <img align="right" alt="GIF" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" />
 
